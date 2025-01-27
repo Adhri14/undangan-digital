@@ -58,7 +58,7 @@ html {
 }
 
 .jumbotron{
-    background-image: url(image/Tanpa\ judul.jpg);
+    background-image: url(image/wedding/BGROUND.jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -101,6 +101,9 @@ html {
 } */
 .bg-pinksoft {
     color: rgb(255, 192, 203);
+}
+.bg-pinkdark {
+    color: #ff83bb;
 }
 .pinksoft {
     background-color: rgb(255, 192, 203);
